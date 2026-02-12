@@ -1,0 +1,27 @@
+{
+  "name": "web2-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/web-n/Nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/web-n/Nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-n/Nodejs.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "sanitize-html": "^1.27.5"
+  }
+}
